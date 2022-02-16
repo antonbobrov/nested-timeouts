@@ -5,7 +5,7 @@
 <br>
 
 ### Demo: https://antonbobrov.github.io/nested-timeouts/
-### Documentation: https://antonbobrov.github.io/nested-timeouts/docs/
+### Documentation: https://antonbobrov.github.io/nested-timeouts/
 
 <br>
 
