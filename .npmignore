@@ -1,0 +1,12 @@
+config/
+docs/
+node_modules/
+
+.babelrc
+.eslintignore
+.eslintrc.json
+.gitignore
+.npmignore
+
+package-lock.json
+tsconfig.json
