@@ -1,6 +1,6 @@
 {
   "name": "nested-timeouts",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Nested Timeouts",
   "browserslist": [
     "last 20 versions, > 0.5%, ie >= 10"
