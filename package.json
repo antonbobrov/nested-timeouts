@@ -25,6 +25,10 @@
     "nested timeout",
     "multiple timeout"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonbobrov/nested-timeouts.git"
+  },
   "author": "Anthony Bobrov <anton.bobrov@hotmail.com>",
   "license": "MIT",
   "devDependencies": {
